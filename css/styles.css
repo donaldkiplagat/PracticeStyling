@@ -19,7 +19,8 @@ h2.introduction{
   color: maroon;
   font-style: italic;
 }
-h3.introduction{
+.introduction h3
+{
   color: blue;
   font-style: oblique;
   background-color: black;
@@ -37,4 +38,13 @@ img.introduction{
 }
 #line2{
   color:red;
+}
+.important{
+  color:red;
+}
+.unimportant{
+  color:blue;
+}
+.cat-climate{
+  background-color: yellow;
 }
