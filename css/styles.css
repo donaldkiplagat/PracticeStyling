@@ -9,5 +9,28 @@ h3.tropical{
 }
 .popular{
   color:blue;
+  font-family: fantasy;
+}
+h1.introduction{
+  color: red;
+  font-family: serif;
+}
+h2.introduction{
+  color: maroon;
   font-style: italic;
+}
+h3.introduction{
+  color: blue;
+  font-style: oblique;
+  background-color: black;
+
+}
+p.introduction{
+  font-weight: lighter;
+  font-style: oblique;
+
+}
+img.introduction{
+    width: 40%;
+    height: 25%;
 }
