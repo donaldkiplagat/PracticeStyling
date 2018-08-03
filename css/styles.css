@@ -23,14 +23,18 @@ h3.introduction{
   color: blue;
   font-style: oblique;
   background-color: black;
-
 }
 p.introduction{
   font-weight: lighter;
   font-style: oblique;
-
 }
 img.introduction{
     width: 40%;
     height: 25%;
+}
+.line1{
+  color:red;
+}
+#line2{
+  color:red;
 }
